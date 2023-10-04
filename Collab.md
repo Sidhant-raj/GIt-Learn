@@ -1,15 +1,10 @@
+Sidhant Raj rohit 
 Sidhant Raj 
 rohit 
 Mandakani Mishra
 Sidhant Raj
 Jayam Gupta
+Once Again
 Vishal Bhagat
-<<<<<<< HEAD
-Faizan 
-Hello
-Hello2
-Modify
-=======
-Faizan
+Jaycee
  
->>>>>>> 1a1e1262dc953f09c8d374b772003445c78034ce
